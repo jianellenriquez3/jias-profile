@@ -51,10 +51,10 @@ body {
 }
 
 main {
-    width: 100%;
-    max-width: 1250px;
+    width: 90%;
+    max-width: 950px;
     margin: 0 auto;
-    padding: 0 40px;
+    padding: 0 20px;
 }
 
 h1, h2, h3, p {
